@@ -70,7 +70,7 @@
     "submitLevelMessage": "Инстанс проверяется...",
     "wellDoneMessage": "Отлично",
     "completedLevelMessage": "Уровень пройден!",
-    "uncompletedLevelMessage": "Упс! Похоже ты еще взломал(а) этот уровень",
+    "uncompletedLevelMessage": "Упс! Похоже ты еще не взломал(а) этот уровень",
     "metamaskKnownIssue": "Ой! Вероятно, возникла проблема с MetaMask. Попробуй выключить и включить плагин MetaMask. Если это не решило проблему, то перезапусти браузер.",
     "eventsCompletionMessage": "При обработке событий возникла ошибка:",
     "unexpectedAddressMessage": "Неожиданный адрес в событии LevelCompletedLog:",
